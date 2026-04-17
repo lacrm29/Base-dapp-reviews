@@ -3,3 +3,6 @@
 ## Day 1
 - Explored a Base DEX interface
 - Reviewed ease of token swapping
+## Day 2
+- Tested another dApp navigation
+- Observed UI responsiveness
