@@ -21,3 +21,6 @@
 ## Day 7
 - Tested repeated interactions
 - Checked consistency of responses
+## Day 8
+- Explored new Base project
+- Reviewed first-time user experience
