@@ -12,3 +12,6 @@
 ## Day 4
 - Reviewed wallet connection process
 - Tested reconnection stability
+## Day 5
+- Explored available features in a protocol
+- Checked usability for beginners
