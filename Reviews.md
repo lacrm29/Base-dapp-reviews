@@ -15,3 +15,6 @@
 ## Day 5
 - Explored available features in a protocol
 - Checked usability for beginners
+## Day 6
+- Compared two dApps interface design
+- Observed loading performance
