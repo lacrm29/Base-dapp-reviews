@@ -18,3 +18,6 @@
 ## Day 6
 - Compared two dApps interface design
 - Observed loading performance
+## Day 7
+- Tested repeated interactions
+- Checked consistency of responses
