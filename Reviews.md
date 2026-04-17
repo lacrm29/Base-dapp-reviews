@@ -27,3 +27,6 @@
 ## Day 9
 - Tested small transactions inside dApp
 - Observed feedback messages
+## Day 10
+- Summarized overall usability experience
+- Compared multiple dApps performance
