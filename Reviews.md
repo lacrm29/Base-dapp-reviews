@@ -9,3 +9,6 @@
 ## Day 3
 - Interacted with swap function
 - Checked transaction clarity
+## Day 4
+- Reviewed wallet connection process
+- Tested reconnection stability
