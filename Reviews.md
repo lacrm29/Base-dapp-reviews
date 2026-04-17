@@ -24,3 +24,6 @@
 ## Day 8
 - Explored new Base project
 - Reviewed first-time user experience
+## Day 9
+- Tested small transactions inside dApp
+- Observed feedback messages
